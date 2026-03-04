@@ -37,7 +37,7 @@ A modern, responsive dashboard application built with TypeScript, React, and Vit
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/lunia290/EduPulse-Student-Dashboard.git
+   git clone https://github.com/augustdev290/EduPulse-Student-Dashboard.git
    cd EduPulse-Student-Dashboard
    ```
 2. Install dependencies:
@@ -100,4 +100,4 @@ MIT License © 2026
 ---
 
 *Happy coding!* 🎉
-"Built with ❤️ by [Lunia290]"
+"Built with ❤️ by [augustdev290]"
